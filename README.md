@@ -1,2 +1,2 @@
-# -
-nya
+# EnterLogTest
+for practice
